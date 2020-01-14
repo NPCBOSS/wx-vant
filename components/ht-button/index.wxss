@@ -1,1 +1,3 @@
-/* components/ht-button/index.wxss */
+.ht-button .van-button--primary {
+  color: red !important;
+}

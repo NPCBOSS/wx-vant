@@ -1,5 +1,5 @@
 {
   "usingComponents": {
-    "ht-button":"@vant/weapp/button"
+    "ht-button":"../../components/ht-button"
   }
 }
