@@ -9,7 +9,7 @@
   </view>
   <view class="usermotto">
     <view class="vant-button">
-    <ht-button type="warning">警告按钮</ht-button>
+    <ht-button class="ht-button" bindtap="onClick" type="primary">警告按钮</ht-button>
     </view>
     <text class="user-motto">{{motto}}</text>
   </view>

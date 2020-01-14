@@ -1,0 +1,13 @@
+.row {
+  height: 44px;
+  margin-bottom: 15px;
+}
+
+.van-button {
+  font-size: 30px;
+}
+
+.demo-margin-right {
+  font-size: 50px !important;
+  width: 100px !important;
+}

@@ -1,0 +1,7 @@
+@import "../pages/index/index.wxss";
+@import "../pages/logs/logs.wxss";
+
+:root {
+  --button-primary-background-color: #228efe;
+  --button-primary-border-color: #228efe;
+}

@@ -1,0 +1,9 @@
+<demo-block title="按钮类型" padding>
+  <view class="row">
+    <ht-button class="demo-margin-right">默认按钮</ht-button>
+    <ht-button type="primary" class="demo-margin-right">主要按钮</ht-button>
+    <ht-button type="info" class="demo-margin-right">信息按钮</ht-button>
+  </view>
+  <ht-button type="danger" class="demo-margin-right">危险按钮</ht-button>
+  <ht-button type="warning">警告按钮</ht-button>
+</demo-block>
